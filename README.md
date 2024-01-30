@@ -6,6 +6,14 @@ Supported apps:
 - Presence
 - Rooms
 
+## Installation
+
+```
+pip install ldvpy
+```
+
+## Quickstart
+
 Sample usage:
 ```py
 import ldv

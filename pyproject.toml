@@ -4,7 +4,7 @@ version = "0.1"
 description = "An API for the LDV dashboard"
 authors = [{name = 'Egsagon', email = "egsagon12@gmail.com"}]
 license = {file = "LICENSE"}
-readme = {file = "pypi.md", content-type = "text/markdown"}
+readme = {file = "README.md", content-type = "text/markdown"}
 keywords = ["school", "api", "web scrapper"]
 classifiers = [
   "Development Status :: 4 - Beta",
